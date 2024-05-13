@@ -1,3 +1,4 @@
+import { Stack } from '@mui/material';
 import React from 'react';
 
 const Navbar = () => {
@@ -7,6 +8,7 @@ const Navbar = () => {
       <div style={{width:"110px",marginTop:"-6px",marginLeft:"-10px",height:"100px"}}>
         <img  alt='Decency Construction' src='/src/assets/logo.jpg'/>
         </div>
+        <Stack mt={-5}>
         <ul className="flex space-x-4 items-center m-2">
           <li>
             <a href="/" className="text-black hover:text-gray-200 font-bold text-lg" style={{ fontFamily: 'Arial, sans-serif' }}>Home</a>
@@ -18,6 +20,7 @@ const Navbar = () => {
             <a href="/contactus" className="text-black hover:text-gray-200 font-bold text-lg" style={{ fontFamily: 'Arial, sans-serif' }}>Contact</a>
           </li>
         </ul>
+        </Stack>
       </div>
     </nav>
   );
