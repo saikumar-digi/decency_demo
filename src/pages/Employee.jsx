@@ -61,7 +61,7 @@ const Employee = () => {
         </div>
         <div class="text-center mt-2">
           <h2 class="font-semibold">Venkatesh Pujari</h2>
-          <p class="text-gray-500">Fonder of decency construction</p>
+          <p class="text-gray-500">Founder</p>
         </div>
         <div class="p-4 border-t mx-8 mt-2">
           <a
@@ -90,7 +90,7 @@ const Employee = () => {
         </div>
         <div class="text-center mt-2">
           <h2 class="font-semibold">Anil Hosur</h2>
-          <p class="text-gray-500">Co-Fonder of decency construction</p>
+          <p class="text-gray-500">Co Founder</p>
         </div>
         <div class="p-4 border-t mx-8 mt-2">
           <a
@@ -146,7 +146,7 @@ const Employee = () => {
         </div>
         <div class="text-center mt-2">
           <h2 class="font-semibold">Ashok Halloli</h2>
-          <p class="text-gray-500">BE Civil Engineer</p>
+          <p class="text-gray-500">Technical Er</p>
         </div>
         <div class="p-4 border-t mx-8 mt-2">
           <a
@@ -175,7 +175,7 @@ const Employee = () => {
         </div>
         <div class="text-center mt-2">
           <h2 class="font-semibold">Saikumar B</h2>
-          <p class="text-gray-500">Engineer</p>
+          <p class="text-gray-500">Social Media Handling</p>
         </div>
         <div class="p-4 border-t mx-8 mt-2">
           <a

@@ -18,17 +18,25 @@ export default cardData;
 
 export const items = [
     {
-      image: 'src/assets/img1.jpg',
+      image: 'src/assets/slid1.jpg',
       summary: "Experience uncompromised quality in our first project. Meticulous attention to detail and precision craftsmanship define this stunning building.",
     },
     {
-      image: "src/assets/img2.jpg",
+      image: "src/assets/slide2.jpg",
       summary: "Explore excellence in our second project. Impeccable design and top-notch construction ensure a space that stands the test of time.",
     },
     {
-      image: "src/assets/img3.jpg",
+      image: "src/assets/s2.jpg",
       summary: "Discover the epitome of quality in our third project. From foundation to finishing touches, our commitment to superior workmanship shines through.",
   },
+  {
+    image: "src/assets/s3.jpg",
+    summary: "Discover the epitome of quality in our third project. From foundation to finishing touches, our commitment to superior workmanship shines through.",
+},
+{
+  image: "src/assets/s4.jpg",
+  summary: "Discover the epitome of quality in our third project. From foundation to finishing touches, our commitment to superior workmanship shines through.",
+},
 ]
 
 

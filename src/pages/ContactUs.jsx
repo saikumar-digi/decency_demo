@@ -41,7 +41,7 @@ const ContactUs = () => {
             <span className="text-2xl mr-2">
               <FiMail color="black" />
             </span>
-            <p className="text-lg flex-grow">ds05@gmail.com</p>
+            <p className="text-sm flex-grow">decencyconstruction05@gmail.com</p>
           </div>
 
           <div className="flex items-center border-2 border-pink-500 rounded-lg p-4">

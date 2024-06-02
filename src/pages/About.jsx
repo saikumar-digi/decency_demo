@@ -6,15 +6,11 @@ import { items } from "../constent";
 const About = () => {
   const renderCarouselItems = () => {
     return items.map((item, index) => (
-      <Paper key={index} style={{margin:"10px"}}>
+      <Paper key={index} style={{marginTop:"10px"}}>
       <img
         src={item.image}
         alt={`Project ${index + 1}`}
-        style={{
-          width: "100%", 
-          height: "400px",
-          objectFit: "cover", 
-        }}
+        className="w-full h-96"
       />
       <Typography variant="body1" style={{ padding: "10px" }}>
         {item.summary}
