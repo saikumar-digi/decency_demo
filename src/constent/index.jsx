@@ -18,23 +18,27 @@ export default cardData;
 
 export const items = [
     {
-      image: 'src/assets/slid1.jpg',
+      image: 'src/assets/S1.jpg',
       summary: "Experience uncompromised quality in our first project. Meticulous attention to detail and precision craftsmanship define this stunning building.",
     },
     {
-      image: "src/assets/slide2.jpg",
-      summary: "Explore excellence in our second project. Impeccable design and top-notch construction ensure a space that stands the test of time.",
+      image: "src/assets/s2.jpg",
+      summary: "Explore excellence in our second project. Impeccable design and top-notch construction ensure a space that stands the test of time and quality assurance.",
     },
     {
-      image: "src/assets/s2.jpg",
+      image: "src/assets/s3.jpg",
       summary: "Discover the epitome of quality in our third project. From foundation to finishing touches, our commitment to superior workmanship shines through.",
   },
   {
-    image: "src/assets/s3.jpg",
+    image: "src/assets/s4.jpg",
     summary: "Discover the epitome of quality in our third project. From foundation to finishing touches, our commitment to superior workmanship shines through.",
 },
 {
-  image: "src/assets/s4.jpg",
+  image: "src/assets/S5.jpg",
+  summary: "Discover the epitome of quality in our third project. From foundation to finishing touches, our commitment to superior workmanship shines through.",
+},
+{
+  image: "src/assets/S6.jpg",
   summary: "Discover the epitome of quality in our third project. From foundation to finishing touches, our commitment to superior workmanship shines through.",
 },
 ]
@@ -52,6 +56,6 @@ export const employees = [
     { imageSrc: 'src/assets/comer.jpg', title: 'Commercial Construction', description: 'Creating spaces for businesses to thrive.' },
     { imageSrc: 'src/assets/Renovation1.jpg', title: 'Renovation Services', description: 'Transforming existing spaces with expertise.' },
     { imageSrc: 'src/assets/CONTRACTOR.jpg', title: 'CONTRACTOR', description: 'Providing skilled contracting services.' },
-    { imageSrc: 'src/assets/paln.jpg', title: 'BUILDING PLANS', description: 'Crafting detailed building plans for your projects.' },
+    { imageSrc: 'src/assets/Paln.jpg', title: 'BUILDING PLANS', description: 'Crafting detailed building plans for your projects.' },
     { imageSrc: 'src/assets/design.jpg', title: 'BUILDING DESIGN', description: 'Innovative building design solutions.' },
   ];
